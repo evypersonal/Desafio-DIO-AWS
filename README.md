@@ -15,11 +15,9 @@ Representação da utilização do **EC2** em conjunto com o **EBS**, demonstran
 ![Diagrama EC2 + EBS](/ec2/Desafio-v1-EC2.png)
 
 ### 🎥 Diagrama **EC2 + EBS** Finalizado  
-Vídeo apresentando o **fluxo finalizado** da arquitetura EC2 + EBS.  
+GIF apresentando o **fluxo finalizado** da arquitetura EC2 + EBS.  
 
-
-**Player embutido:**  
-<video src="/ec2/Desafio-v1-EC2.webm" controls width="600"></video>
+![Diagrama EC2 + EBS](/ec2/Desafio-v2-EC2.gif)
 
 ---
 
@@ -40,12 +38,10 @@ Versão finalizada da arquitetura, com a inserção do **CloudWatch** para monit
 
 ![Diagrama final com CloudWatch](/lambda/Desafio-v3-Lambda.png)
 
-### 🎥 Diagrama **Lambda + S3** Finalizado  
-Vídeo apresentando o **fluxo finalizado** da arquitetura com Lambda, S3, Cognito, DynamoDB e CloudWatch.  
+### 🎥 Diagrama **Lambda + S3**  
+GIF apresentando o **fluxo finalizado** da arquitetura com Lambda, S3, Cognito, DynamoDB e CloudWatch.  
 
-**Player embutido:**  
-<video src="/lambda/Desafio-v3-Lambda.webm" controls width="600"></video>
-
+![Diagrama Lambda + S3](/lambda/Desafio-v4-Lambda.gif)
 ---
 
 ## 📂 Estrutura de Pastas
@@ -53,12 +49,12 @@ Vídeo apresentando o **fluxo finalizado** da arquitetura com Lambda, S3, Cognit
 . <br>
 ├── ec2 <br>
 │ ├── Desafio-v1-EC2.png<br>
-│ └── Desafio-v1-EC2.webm<br>
+│ └── Desafio-v2-EC2.gif<br>
 │<br>
 ├── lambda<br>
 │ ├── Desafio-v1-Lambda.png<br>
 │ ├── Desafio-v1-Lambda.png<br>
 │ ├── Desafio-v2-Lambda.png<br>
-│ └── Desafio-v3-Lambda.webm<br>
+│ └── Desafio-v4-Lambda.gif<br>
 │<br>
 └── README.md<br>
